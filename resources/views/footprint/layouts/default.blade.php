@@ -77,7 +77,11 @@
     </div>
 </div>
 <!-- //banner -->
+
+
 @yield('content')
+
+
 
 <!-- contact -->
 <div class="contact" id="contact">

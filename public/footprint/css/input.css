@@ -27,6 +27,7 @@ padding: 0px;
   margin: 75px auto;
 }
 .input-container input {
+  color:#fff;
   -webkit-box-ordinal-group: 11;
   order: 10;
   -ms-flex-order: 10;
@@ -102,7 +103,7 @@ body {
 .button-main{
   text-align: center;
 }
-.box .link                               
+.box .link
 {
 display: inline-block;
 height: 280px;

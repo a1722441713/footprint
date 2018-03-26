@@ -28,6 +28,7 @@
     {{--轮播图--}}
     @widget('Banner',['type'=>'index'])
 
+
 @endif
 @if($key == 1)
 <!-- banner-bottom-position -->
@@ -50,3 +51,5 @@
 @endif
 
 @endforeach
+<div style="width=300px;background="#000";height="20px">
+asdasdasdasdasdasd</div>

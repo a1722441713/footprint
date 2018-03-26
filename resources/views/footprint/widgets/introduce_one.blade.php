@@ -51,5 +51,3 @@
 @endif
 
 @endforeach
-<div style="width=300px;background="#000";height="20px">
-asdasdasdasdasdasd</div>
